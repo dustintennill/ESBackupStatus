@@ -10,8 +10,8 @@ If you want to query a specific set of indexes, include a name/pattern here - li
 # Outputs 
 indexname, protected (yes/no), name of snapshot protecting the index, when protection ends
 
-# Output formats: 
+Output formats: 
    Readable text (default)
    CSV
    JSON
-   
+
