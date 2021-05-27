@@ -15,3 +15,6 @@ Readable text (default)<br>
 CSV<br>
 JSON<br>
 
+# Installation
+Make sure you have the ruby elasticsearch module installed. Otherwise, I'll update once I test across more systems. 
+
